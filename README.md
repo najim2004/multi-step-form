@@ -4,7 +4,7 @@ A multi-step form built with Next.js (App Router), React Hook Form, Zod validati
 
 ## Live Demo
 
-[View Live Demo](https://multi-step-form-demo.vercel.app)
+[View Live Demo](https://multi-step-form-demo-five.vercel.app)
 
 ## Features
 
@@ -26,10 +26,10 @@ A multi-step form built with Next.js (App Router), React Hook Form, Zod validati
 
 ## Contact
 
-- Email: your.email@example.com
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- Email: najim.developer@gmail.com
+- LinkedIn: [Mohammad Najim](https://linkedin.com/in/mohammad-najim2004)
+- GitHub: [@najim2004](https://github.com/najim2004)
+- Portfolio: [najim-dev.vercel.app](https://najim-dev.vercel.app)
 
 ## Getting Started
 
@@ -42,7 +42,7 @@ A multi-step form built with Next.js (App Router), React Hook Form, Zod validati
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/multi-step-form.git
+git clone https://github.com/najim2004/multi-step-form.git
 ```
 
 2. Then change the directory:

@@ -29,7 +29,7 @@ const formSchema = z
     zipCode: z
       .string()
       .min(1, "Zip code is required")
-      .min(4, "Zip code must be at least 5 digits")
+      .min(5, "Zip code must be at least 5 digits")
       .regex(/^\d+$/, "Zip code must contain only numbers"),
 
     // Step 3: Account Setup
