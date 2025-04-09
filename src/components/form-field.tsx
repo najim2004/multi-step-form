@@ -32,6 +32,7 @@ export function FormField({
         placeholder={placeholder}
         {...register(name)}
         className={error ? "border-red-500" : ""}
+        
       />
       {error && <p className="text-sm text-red-500">{error.message}</p>}
     </div>
